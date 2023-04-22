@@ -1,7 +1,6 @@
 {
 
-    "singers": [
-        {
+    "singers": [{
             "name": "Arijit Singh",
             "photo": "https://i.pinimg.com/564x/63/3f/77/633f77599e8efb117fe49dc478dbd215.jpg"
         },
